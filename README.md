@@ -1,4 +1,4 @@
-# SuiMarket Project Overview
+# SuiMarket Prediction Project Overview
 
 ## **1. Introduction**
 
